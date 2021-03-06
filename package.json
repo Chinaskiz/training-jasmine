@@ -1,0 +1,22 @@
+{
+  "name": "training-jasmine",
+  "version": "1.0.0",
+  "description": "Introduction to Jasmine and Karma",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chinaskiz/training-jasmine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chinaskiz/training-jasmine/issues"
+  },
+  "homepage": "https://github.com/Chinaskiz/training-jasmine#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.4"
+  }
+}
