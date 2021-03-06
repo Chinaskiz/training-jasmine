@@ -59,8 +59,8 @@ describe("Base matchers", () => {
     });
 
     it("should work if function throws exception", () => {
-        function foo(input)  {
-            if(input == 1) {
+        function foo(input) {
+            if (input == 1) {
                 throw new SyntaxError();
             }
         }
